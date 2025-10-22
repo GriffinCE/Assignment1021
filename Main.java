@@ -9,6 +9,8 @@ public class Main {
         
         System.out.println("Your name is " + name + "!");
         
+        System.out.println("This is an edit by Finian!");
+        
         scanner.close();
     }
 }
